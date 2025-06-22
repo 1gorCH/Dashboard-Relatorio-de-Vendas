@@ -17,3 +17,5 @@ Os dados fictícios foram importados de planilhas **Excel**, tratados no **Power
 ---
 
 Este projeto demonstra a aplicação prática de conceitos de **Business Intelligence (BI)** para análise de desempenho comercial e controle de metas.
+
+*CURSO: YTO NIHON - DANIEL MACIEL*
